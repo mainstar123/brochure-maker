@@ -2,17 +2,14 @@
 
 ## Overview
 
-Brochure Maker is an AI-powered tool designed to help users create professional brochures with ease. It leverages advanced algorithms to provide design suggestions and automate the brochure creation process.
+Brochure Maker is a tool designed to help users create professional brochures easily. It provides various templates and customization options to suit different needs.
 
 ## Features
 
-- AI-driven design suggestions
-- Customizable templates
-- Easy-to-use interface
+- Option to select the chat model
+- Option to choose the desired tone
 
-## Installation
-
-To install and run the project locally, follow these steps:
+## Setup
 
 1. Clone the repository:
    ```bash
@@ -24,51 +21,34 @@ To install and run the project locally, follow these steps:
    ```
 3. Create a virtual environment:
    ```bash
-   python -m venv env
+   python -m venv venv
    ```
 4. Activate the virtual environment:
    - On Windows:
      ```bash
-     .\env\Scripts\activate
+     venv\Scripts\activate
      ```
    - On macOS/Linux:
      ```bash
-     source env/bin/activate
+     source venv/bin/activate
      ```
-5. Install the dependencies:
+5. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install
    ```
 
 ## Usage
 
-To start the application, run:
-
-```bash
-python main.py
-```
-
-Open your browser and navigate to `http://localhost:5000` to access the application.
+1. Start the application:
+   ```bash
+   python main.py
+   ```
+2. Open your browser and navigate to the appropriate URL to start creating brochures.
 
 ## Contributing
 
-We welcome contributions! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Make your changes and commit them:
-   ```bash
-   git commit -m "Add feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Create a pull request.
+Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
