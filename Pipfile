@@ -9,6 +9,9 @@ python-dotenv = "*"
 beautifulsoup4 = "*"
 ipython = "*"
 openai = "*"
+gradio = "*"
+anthropic = "*"
+google-generativeai = "*"
 
 [dev-packages]
 
