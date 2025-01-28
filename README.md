@@ -4,6 +4,10 @@
 
 Brochure Maker is a tool designed to help users create professional brochures easily. It provides various templates and customization options to suit different needs.
 
+## Screenshoots
+
+[screen-capture (1).webm](https://github.com/user-attachments/assets/a1df31e1-90ec-47c0-9557-0da5d50aea2d)
+
 ## Features
 
 - Option to select the chat model
